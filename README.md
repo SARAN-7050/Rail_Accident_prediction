@@ -19,8 +19,6 @@ Provide step-by-step instructions for installing any necessary software and depe
 
 bash
 Copy code
-# Clone the repository
-git clone https://github.com/yourusername/rail-accident-prediction.git
 
 # Install required packages
 pip install -r requirements.txt
