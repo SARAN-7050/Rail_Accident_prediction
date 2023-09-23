@@ -27,7 +27,7 @@ Clone the repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/SARAN-7050/rail-accident-prediction.git
+git clone https://github.com/SARAN-7050/Rail_Accident_prediction.git
 Navigate to the project directory:
 
 bash
