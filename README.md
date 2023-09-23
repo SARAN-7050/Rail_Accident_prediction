@@ -25,33 +25,7 @@ To set up the Rail Accident Prediction system, follow these steps:
 
 Clone the repository to your local machine:
 
-bash
-Copy code
 git clone https://github.com/SARAN-7050/Rail_Accident_prediction.git
-Navigate to the project directory:
-
-bash
-Copy code
-cd rail-accident-prediction
-Create a virtual environment (optional but recommended):
-
-bash
-Copy code
-python -m venv venv
-Activate the virtual environment:
-
-bash
-Copy code
-source venv/bin/activate  # On Windows, use venv\Scripts\activate
-Install project dependencies:
-
-bash
-Copy code
-pip install -r requirements.txt
-Usage
-To use the Rail Accident Prediction system, follow these steps:
-
-Ensure you have completed the installation steps.
 
 Run the system:
 
